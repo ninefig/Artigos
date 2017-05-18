@@ -112,7 +112,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Artigos.Properties.Resources.User_icon;
-            this.pictureBox1.Location = new System.Drawing.Point(144, 79);
+            this.pictureBox1.Location = new System.Drawing.Point(137, 73);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(119, 99);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
